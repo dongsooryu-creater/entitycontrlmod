@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[53,)"
+license="MIT"
+issueTrackerURL="https://github.com/dongsooryu-creater/entuty_control_mod/issues"
+[[mods]]
+modId="entitycontrlmod"
+version="1.0.0"
+displayName="Entity Control Mod"
+description='''  
+  마인크래프트에서 엔티티를 키보드로 조종하는 모드입니다.
+'''
+authors="dongsooryu"
+credits="Made with ChatGPT assistance"
