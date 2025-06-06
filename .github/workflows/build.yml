@@ -40,3 +40,5 @@ jobs:
         with:
           name: entitycontrlmod-jar
           path: build/libs/*.jar
+      - name: Grant execute permission
+        run: chmod +x gradlew
